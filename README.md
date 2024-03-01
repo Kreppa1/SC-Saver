@@ -1,12 +1,11 @@
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!! WARNING: THIS MAY BE CONSIDERED MALWARE BY WINDOWS, this script uses a real BSOD to crash your PC              !!
-!! by killing the svchost.exe task in the background. This is infact pretty harmless and I hadn't any issues yet. !!
-!! However, only run this script on you own risk!                                                                 !!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-========================
+WARNING: THIS MAY BE CONSIDERED MALWARE BY WINDOWS, this script uses a real BSOD to crash your PC
+by killing the svchost.exe task in the background. This is infact pretty harmless and I hadn't any issues yet.
+However, only run this script on you own risk!
+
+
+
 Welcome to School-Saver
-========================
 
 This is School-Saver, it helps you in "I forgot my homework" situations,
 as long as you use a windows device for your notes.
