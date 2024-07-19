@@ -12,6 +12,3 @@ as long as you use a windows device for your notes.
 
 This script simply checks for the task you selected, and will crash your windows
 device as soon as this task has been found running in the background.
-
-So be carefull, to check if your selected
-task is running at the moment already.
