@@ -15,9 +15,3 @@ device as soon as this task has been found running in the background.
 
 So be carefull, to check if your selected
 task is running at the moment already.
-
-Changelog:
-1.2. Fixed some Bugs.
-1.3. Added warning for already running tasks.
-1.4. UI adjustents.
-1.5. New design; Automaticly start with admin perms
